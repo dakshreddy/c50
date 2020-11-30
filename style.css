@@ -1,0 +1,33 @@
+h1 {
+    color: brown;
+    }
+    
+    * {
+    border: solid;
+    }
+    .header{
+    
+    display: flex;
+    
+    
+    justify-content: space-between;
+        background-color: lightgreen
+    }
+    
+    .description{
+    
+        color: yellow 
+    }
+    
+    .grid{
+    
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    
+    .futter{
+    
+        display: flex;
+        justify-content: flex-end;
+    }
